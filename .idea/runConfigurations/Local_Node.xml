@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Local Node" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/local/bin/node" path-to-js-file="$USER_HOME$/.npm/grunt/0.4.5/package/lib/grunt.js" working-dir="$PROJECT_DIR$">
+    <method />
+  </configuration>
+</component>

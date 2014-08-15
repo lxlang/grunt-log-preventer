@@ -4,6 +4,9 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="gruntjs-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="Node.js v0.10.26 Core Modules" level="application" />
+    <orderEntry type="library" name="grunt-log-preventer node_modules" level="project" />
   </component>
 </module>
 
